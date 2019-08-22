@@ -1,0 +1,9 @@
+﻿License type: BUSINESS
+Product: Construct 2
+Licensed to: sts
+Email: stS@sts.ac.th
+Comment: With best wishes from Figgler [mrfiggler@gmail.com]
+Timestamp: 1521113027
+Hash: 54721DE74328F103D500ECF7B7C299AE8AAB129731C582
+
+This is PRIVATE license. Please TURN OFF "UPDATE CHECKING" in C2 preferences BEFORE USE!!!
